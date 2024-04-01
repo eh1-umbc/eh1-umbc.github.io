@@ -21,7 +21,7 @@ repository               : "eh1-umbc/eh1-umbc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://eh1-umbc.github.com/images/profile.jpg"
   name             : "Ethan Hopko"
   pronouns         : # example: "she/her"  
   bio              : "100% Human"
