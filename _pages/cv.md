@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A in Geography and Environmental Systems, UMBC, 2025 (expected)
+* A.A. Sociology, Frederick Community College, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2023 - Current
+  * Tournament City Games
+  * Duties included: Small electronics repair and Front End Associate
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2022 - January 2023
+  * Middletown, MD municipal government
+  * Duties included: Summarizing and creating local legislation, assisting public works department
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019 - March 2020
+  * Little Red Barn Ice Cream
+  * Duties included: Serving customers ice cream
+
+* 2000 Buick LeSabre repairs
+  * Have replaced: Brake lines, brake pads, rotors, upper intake manifold, sparkplugs, air filters
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ArcGIS pro
+* QGIS
+* Repair work
+  * Automobiles
+  * Electronics
+  * Soldering
+* Pianist, Flautist
 
 Publications
 ======
