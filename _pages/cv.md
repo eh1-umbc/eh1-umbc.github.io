@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A in Geography and Environmental Systems, UMBC, 2025 (expected)
+* B.A in Geography and Environmental Systems with a minor in Political Science and a GIScience certificate, UMBC, 2025 (expected)
 * A.A. Sociology, Frederick Community College, 2023
 
 Work experience
