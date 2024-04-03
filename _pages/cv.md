@@ -18,7 +18,7 @@ Work experience
 ======
 * August 2023 - Current
   * Tournament City Games
-  * Duties included: Small electronics repair and Front End Associate
+  * Duties included: Small electronics repair and front end associate
 
 * June 2022 - January 2023
   * Middletown, MD municipal government
