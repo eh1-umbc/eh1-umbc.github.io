@@ -1,5 +1,5 @@
 ---
 title: "A project from class"
-excerpt: "The badassness map of Portland<br/><img src='images/map w locator map-1.png'>"
+excerpt: "A map made for lab 1<br/><img src='images/githubimage1.png'>"
 collection: portfolio
 ---
