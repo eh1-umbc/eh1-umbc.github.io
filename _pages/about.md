@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Central Maryland Tournament City Games LLC is where I currently work, with duties including repairwork and running the video game side of the store on weekends. Prior to this, I worked for the municipal government in Middletown, MD, where I summarized and created local legislation and assisted the public works department. This summer I'll be working for UMBC's GES department and Washington County's stormwater management specialist.
+Tournament City Games LLC is where I currently work, with duties including repairwork and running the video game side of the store on weekends. Prior to this, I worked for the municipal government in Middletown, MD, where I summarized and created local legislation and assisted the public works department. This summer I'll be working for UMBC's GES department and Washington County's stormwater management specialist.
 
 In terms of education, I am pursuing a B.A. in Geography and Environmental Systems with a minor in Political Science and a GIScience certificate at UMBC (expected graduation in 2025). I also have an A.A. in Sociology from Frederick Community College, obtained in 2023.
 
