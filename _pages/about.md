@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "eh1-umbc github profile"
+title: "I'm Ethan!"
 author_profile: true
 redirect_from: 
   - /about/
