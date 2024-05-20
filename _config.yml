@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ethan Hopko's lab06"
+title                    : "Ethan Hopko"
 title_separator          : "-"
 name                     : &name "Ethan Hopko's Github"
 description              : &description "UMBC '25"
@@ -21,7 +21,7 @@ repository               : "eh1-umbc/eh1-umbc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://tinyurl.com/mryxdd64"
+  avatar           : "https://i.imgur.com/q8Fayb4.jpeg"
   name             : "Ethan Hopko"
   pronouns         : # example: "she/her"  
   bio              : "UMBC GES BA '25. 100% Human." # "UMBC GES B.A. '25. AA in Sociology from Frederick Community College. Currently electronics repair and front worker at Tournament City Games. Interested in how where people live affects their economic outlook and political behavior. Pianist and flautist. Always learning."
